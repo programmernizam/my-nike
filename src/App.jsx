@@ -1,8 +1,8 @@
+import "./App.css";
 import Navbar from "./Components/Navbar";
-
 const App = () => {
   return (
-    <div>
+    <div className="container">
       <Navbar />
     </div>
   );
